@@ -10,6 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: inline;
 }
 
 /* do not edit this footer */
@@ -24,3 +25,5 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* ===================================================== */
